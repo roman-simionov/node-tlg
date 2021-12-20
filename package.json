@@ -32,6 +32,6 @@
   },
   "homepage": "https://github.com/dilongfa/node-tlg#readme",
   "dependencies": {
-    "ffi-napi": "2.4.4"
+    "ffi-napi": "^4.0.3"
   }
 }
