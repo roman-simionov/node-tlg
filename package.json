@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dilongfa/node-tlg.git"
+    "url": "git+https://github.com/roman-simionov/node-tlg.git"
   },
   "keywords": [
     "tlg",
